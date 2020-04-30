@@ -1,6 +1,11 @@
 import React from 'react';
-import { Text } from 'react-native';
+
+import { Wrapper, Label } from './styles';
 
 export default function Home() {
-    return <Text>Pay</Text>;
+    return (
+        <Wrapper>
+            <Label>Em Construção</Label>
+        </Wrapper>
+    );
 }
