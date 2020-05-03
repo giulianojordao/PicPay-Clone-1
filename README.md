@@ -3,7 +3,9 @@
 </h1>
 <p align="center">📱💰 Clone da interface do aplicativo de pagamentos PicPay feito em React Native com Expo CLI</p>
 
-![alt text](https://rychillie.net/images/picpay.gif "Screenshots")
+<div align="center">
+  <img width="25%" alt="Screenrecord gif" src="https://rychillie.net/images/picpay.gif">
+</div>
 
 ## 🚀 Apresentação
 
