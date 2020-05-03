@@ -1,9 +1,11 @@
 <h1 align="center">
   📱💰PicPay Clone
 </h1>
-<p align="center">Clone da interface do aplicativo de pagamentos PicPay feito em React Native com Expo CLI</p>
+<p align="center">📱💰 Clone da interface do aplicativo de pagamentos PicPay feito em React Native com Expo CLI</p>
 
-<!--![alt text](https://purplepage.rychillie.net/images/screenshot.png "Logo Title Text 1")
+<p align="center">
+<img width="25%" alt="Screenrecord gif" src="https://rychillie.net/images/picpay.gif">
+</p>
 
 ## 🚀 Apresentação
 
@@ -11,22 +13,22 @@ Este projeto foi realizado em LiveStream, através da plataforma [Twitch.tv](htt
 
 Este projeto não visa nenhum lucro, apenas foca em compartilhar conhecimento e um crescimento pessoal e profissional.
 
-Para criar esta Lading Page utilizamos o [GatsbyJS](https://www.gatsbyjs.org/) e o [SCSS](https://sass-lang.com/documentation/syntax), para converter o layout baseado no design de [Mostafa Hisham](https://dribbble.com/Mooostafa) o [App Landing Page](https://dribbble.com/shots/4650023-FREEBIE-App-landing-page)
+Para criar este clone utilizamos o [React-Native](https://reactnative.dev/) com [Expo-CLI](https://expo.io/tools) e utilizamos como base o [video da Rocketseat](https://youtu.be/DDm0M_rZLJo) no qual ele ensina a reacriar a interface do Nubank com React-Native.
 
-## 🧐 Quais Plugins Utilizados?
+## 🧐 Como instalar o App?
 
-- ````npm install --save gatsby-plugin-manifest```` [Gatsby Plugin Manifest](https://www.gatsbyjs.org/packages/gatsby-plugin-manifest/): Plugin para definir icone no cabeçalho e afins;
+- Tendo em mente que você já tem instalado o [NPM](https://www.npmjs.com/) e o [Yarn](https://yarnpkg.com/) Primeiro faça o clone ou faça o download deste mesmo repositório que estamos.
 
-- ````gatsby-plugin-google-fonts```` [Gatsby Plugin Google Fonts](https://www.gatsbyjs.org/packages/gatsby-plugin-google-fonts/): Plugin para definir fonts através do website [Google Fonts](https://fonts.google.com/);
+- Instale o [Expo-CLI](https://expo.io/tools) com o seguinte comando no seu terminal: ````npm install expo-cli --global````;
 
+- Realize o seguinte comando para executar o aplicativo: ````yarn start````.
 
-- ````npm install --save node-sass gatsby-plugin-sass```` [Gatsby Plugin Sass](https://www.gatsbyjs.org/packages/gatsby-plugin-sass/): Plugin para utilização do compilador de SCSS;-->
 
 ## 📝 A fazer:
 
 - [x] Menu Bottom
 - [x] Tela Home
-- [ ] Tela de Carteira
+- [x] Tela de Carteira
 - [ ] Tela de Pagamento
 - [ ] Tela de Notificação
 - [ ] Tela de Ajustes
